@@ -113,7 +113,7 @@ name="connection.url">jdbc:mysql://localhost:3306/****</property>
 Il file hibernate.cfg.xml ci permette di configurare ogni parametro per la 
 corretta connessione al database.
 
-Per poter connettere qualsiasi applicazione hibernate con il database c’è 
+Per poterci connetter con hibernate al nostro database c’è 
 bisogno prima di tutto di definire il dialect, il quale specifica che tipo 
 di database stiamo usando e che tipo di query dovrà fare hibernate.
 

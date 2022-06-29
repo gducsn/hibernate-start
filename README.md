@@ -60,7 +60,7 @@ Maven è uno strumento che ci permette di gestire al meglio i nostri
 progetti. Il file pom.xml descrive il nostro progetto, le sue dipendenze e 
 tutte le configurazioni più utili per ogni evenienza.
 
-La  parte iniziale del pom definisce alcuni gli aspetti principali del 
+La  parte iniziale del pom definisce alcuni degli aspetti principali del 
 nostro progetto. Ad esempio il ‘gropupID’ identica in modo univoco il 
 nostro progetto tra tutti i progetti. Un ID gruppo dovrebbe seguire le 
 regole del nome come per i pacchetti di Java. Questo significa che 
